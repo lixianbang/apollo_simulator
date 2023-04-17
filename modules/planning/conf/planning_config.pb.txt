@@ -153,8 +153,9 @@ default_task_config: {
     max_centric_acceleration_limit: 2.0
     point_extension: 0.0
     lowest_speed: 2.5
-    static_obs_nudge_speed_ratio: 0.6
+    static_obs_nudge_speed_ratio: 0.3
     dynamic_obs_nudge_speed_ratio: 0.8
+    collision_safety_range: 1.5
   }
 }
 default_task_config: {
@@ -165,8 +166,9 @@ default_task_config: {
     max_centric_acceleration_limit: 2.0
     point_extension: 0.0
     lowest_speed: 2.5
-    static_obs_nudge_speed_ratio: 0.6
+    static_obs_nudge_speed_ratio: 0.3
     dynamic_obs_nudge_speed_ratio: 0.8
+    collision_safety_range: 1.5
   }
 }
 default_task_config: {
